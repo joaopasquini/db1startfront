@@ -1,0 +1,1 @@
+console.log(fnCalcular(1,2))
